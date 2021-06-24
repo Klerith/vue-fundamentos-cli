@@ -1,6 +1,7 @@
 <template>
   <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-  <!-- <Counter :start="100" /> -->
+  <!-- <Counter :start="100" title="Hola Mundo" /> -->
+  
   <Indecision />
 </template>
 
